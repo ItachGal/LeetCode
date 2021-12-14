@@ -1,6 +1,8 @@
 <div align="center">
 
 [![Easy](https://img.shields.io/badge/Easy-1-5cb85c.svg?style=flat)]()
+[![Medium](https://img.shields.io/badge/Medium-0-f0ad4e.svg?style=flat)]()
+[![Hard](https://img.shields.io/badge/Hard-0-d9534f.svg?style=flat)]()
 </br>
 [![Languages](https://img.shields.io/badge/Languages-Python-red.svg?style=flat)]()
 [![Author](https://img.shields.io/badge/Author-Gal%20Itach-blue.svg?style=flat)]()
