@@ -1,4 +1,6 @@
 https://leetcode.com/problems/set-matrix-zeroes/
+Runtime: 128 ms, faster than 75.29% of Python3 online submissions for Set Matrix Zeroes.
+Memory Usage: 15 MB, less than 91.67% of Python3 online submissions for Set Matrix Zeroes.
 
 Given an m x n integer matrix matrix, if an element is 0, set its entire row and column to 0's, and return the matrix.
 
